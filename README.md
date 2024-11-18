@@ -1,4 +1,4 @@
- #Introducing My Pizza Website Landing Page Project! 🍕
+ # My Pizza Website Landing Page Project! 🍕
 I'm thrilled to share my latest project: a dynamic and engaging pizza website built using HTML, CSS, and JavaScript! 🚀🍕
 
 Project Overview
